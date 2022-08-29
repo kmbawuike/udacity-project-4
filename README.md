@@ -1,4 +1,4 @@
-[!kmbawuike(https://circleci.com/gh/kmbawuike/udacity-project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/kmbawuike/udacity-project-4)
+[![kmbawuike](https://circleci.com/gh/kmbawuike/udacity-project-4.svg?style=svg)](https://app.circleci.com/pipelines/github/kmbawuike/udacity-project-4)
 
 ## Project Overview
 
