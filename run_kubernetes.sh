@@ -10,7 +10,7 @@ dockerpath="kmbawuike/devopsproject:v1.0.0"
 # Run the Docker Hub container with kubernetes
 kubectl run devopsproject\
     --image=$dockerpath\
-    --port=80 --labels app=devopsproject
+    --port=8080 --labels app=devopsproject
 
 # Step 3:
 # List kubernetes pods
